@@ -1,16 +1,7 @@
-# super_pad
+# Super Pad
 
-A new Flutter project.
+An app inspired from Xylophone App
 
-## Getting Started
+## Demo App
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://user-images.githubusercontent.com/86915734/126423688-3649d55f-6e45-47f3-aa19-e599dec99b2b.mp4
